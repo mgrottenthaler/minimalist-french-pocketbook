@@ -1,0 +1,65 @@
+baseURL = "/"
+locale = "fr"
+defaultContentLanguage = "fr"
+title = "The Minimalist French Pocketbook"
+
+# Layouts, CSS, PWA shell and the PDF build scripts live in the shared theme
+# (git submodule at themes/pocketbook-theme) — see its README for the
+# [params] and i18n contract this book fills in below.
+theme = ["pocketbook-theme"]
+
+# robotsTXT stays disabled: static/robots.txt is a plain file instead (it
+# only ever needs one "Allow: /" line, no templating). sitemap stays enabled
+# — layouts/_default/sitemap.xml below emits the single home-page URL.
+disableKinds = ["taxonomy", "term", "RSS", "robotsTXT", "section", "404"]
+
+# The book is a single HTML document assembled by layouts/home.html and paged
+# into a PDF by paged.js. Chapters stay in site.RegularPages (list = always) so
+# the layout can gather them, but never get an output file of their own.
+[[cascade]]
+  [cascade.target]
+    path = "/chapters/**"
+  [cascade.build]
+    render = "never"
+    list = "always"
+
+[params]
+  subtitle = "grammaire essentielle"
+  # Back-cover copy and imprint line — see the theme's layouts/cover.html. In
+  # French, like the book itself; only the README is in English.
+  blurb = "Paradigmes, terminaisons et formation des temps, avec le moins de prose possible. Une révision pour le niveau B2, pas un cours."
+  omits = "Pas d'exercices, pas de vocabulaire, pas de phonétique — seulement les formes."
+  url = "https://french.grottenthaler.eu"
+  repo = "github.com/mgrottenthaler/minimalist-french-pocketbook"
+  # No Lulu listing exists yet for this book — swap in the real product URL
+  # once one is published (see the Romanian book's hugo.toml for the shape).
+  lulu = "#TODO-lulu-listing"
+
+  # The theme's [params] contract — see themes/pocketbook-theme/README.md.
+  lang = "fr"
+  ogLocale = "fr_FR"
+  pages = 42
+  price = "9.09"
+  currency = "EUR"
+  # Must match PDF_BASENAME in the Makefile and .github/workflows/pdf.yml.
+  pdfBasename = "grammaire-francaise"
+  # The cover/og:image specimen word, apprenons ("we learn"): stem plain,
+  # ending highlighted.
+  specimenStem = "appren"
+  specimenEnding = "ons"
+  specimenCaption = "indicatif présent · 1re pers. pl."
+  ogCaption = "grammaire essentielle · niveau B2"
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.goldmark.extensions.typographer]
+    disable = true
+  [markup.goldmark.parser]
+    autoHeadingID = true
+    [markup.goldmark.parser.attribute]
+      block = true
+      title = true
+
+[build]
+  writeStats = false

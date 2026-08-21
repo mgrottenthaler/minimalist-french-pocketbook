@@ -1,0 +1,49 @@
+# UI-chrome strings read by the shared theme's layouts (themes/pocketbook-theme)
+# via {{ i18n "key" }}. Book content itself (chapters, blurb, omits, subtitle)
+# stays in content/ and hugo.toml [params] — this file is only the fixed
+# wrapper text every page has regardless of which chapters it contains.
+#
+# A paragraph that contains a link is split at the link boundary (xPre, the
+# link's own label, xPost) so the href stays in the template and only plain
+# text lives here — see themes/pocketbook-theme/README.md for the full
+# contract and where each piece lands on the page.
+
+themeToggleLabel = "Changer de thème"
+themeToggleToLight = "Passer au thème clair"
+themeToggleToDark = "Passer au thème sombre"
+
+versionLabel = "Version"
+
+buyPrimary = "Commander un exemplaire imprimé"
+buySecondary = "Order a printed copy — via Lulu"
+
+noteLicensePre = "Le livre peut être lu, téléchargé et imprimé gratuitement — voir"
+noteLicenseLink = "la licence"
+noteLicensePost = ". Via Lulu, 2 € du prix vont à l'auteur. Le site peut être installé comme application sur le téléphone et lu hors ligne, depuis le menu du navigateur."
+
+noteAiPre = "Le contenu a été rédigé avec l'aide de l'intelligence artificielle et vérifié par l'auteur avant publication. Si tu repères une erreur,"
+noteAiLink = "ouvre une issue sur GitHub"
+noteAiPost = "."
+
+notePrintPre = "Ceci est l'édition web, avec défilement — pas la mise en page d'impression. Pour des pages identiques à l'imprimé, voir"
+notePrintLink = "la version imprimée"
+notePrintPost = "."
+
+notePdfLabel = "PDF prêt à imprimer :"
+notePdfInterior = "intérieur"
+notePdfCover = "couverture"
+
+toc = "Table des matières"
+
+legendBold = "gras"
+legendBoldDesc = "la terminaison"
+legendItalic = "italique"
+legendItalicDesc = "exemples"
+legendBox = "encadré"
+legendBoxDesc = "exceptions"
+
+chaptersWord = "chapitres"
+bindingLine = "format de poche · reliure spirale"
+
+coverWord = "couverture"
+socialCardWord = "carte sociale"

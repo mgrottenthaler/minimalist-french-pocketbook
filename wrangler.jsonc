@@ -1,0 +1,12 @@
+{
+  "name": "minimalist-french-pocketbook",
+  "compatibility_date": "2026-08-21",
+  "workers_dev": false,
+  "preview_urls": false,
+  "assets": {
+    "directory": "./public"
+  },
+  "routes": [
+    { "pattern": "french.grottenthaler.eu", "custom_domain": true }
+  ]
+}

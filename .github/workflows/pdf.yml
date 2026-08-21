@@ -1,0 +1,93 @@
+name: Build PDF and deploy site
+
+# Same toolchain as `make pdf` (see README): hugo assembles content into
+# public/index.html and public/cover/index.html, then the shared theme's
+# scripts/build-pdf.mjs (themes/pocketbook-theme, a git submodule) paginates
+# the interior with paged.js and prints it with headless Chromium, and
+# scripts/build-cover.mjs prints the cover sheet. Fonts are vendored in the
+# theme, so fetch-fonts.sh does not need to run here.
+#
+# This also deploys french.grottenthaler.eu, on the same trigger: the site
+# is only meant to move when a version is actually published, not on every
+# push to main, so it rides this tag-triggered job instead of Cloudflare's
+# git integration. See "Website" in the README.
+on:
+  push:
+    tags:
+      - '*'
+
+permissions:
+  contents: write
+
+env:
+  PDF_BASENAME: grammaire-francaise
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          # Layouts, CSS and the build scripts live in the shared theme
+          # (themes/pocketbook-theme) — without this it checks out empty.
+          submodules: true
+
+      - name: Set up Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.164.0'
+          extended: true
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: 'npm'
+
+      - name: Install npm dependencies
+        run: npm ci
+
+      - name: Install poppler-utils
+        run: sudo apt-get update && sudo apt-get install -y poppler-utils
+
+      - name: Set up Chromium
+        id: chrome
+        uses: browser-actions/setup-chrome@v1
+
+      - name: Build PDFs
+        env:
+          CHROME_PATH: ${{ steps.chrome.outputs.chrome-path }}
+        run: npm run build
+
+      - name: Upload build artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ env.PDF_BASENAME }}
+          path: dist/*.pdf
+
+      # Interior and cover are two separate uploads at Lulu, so they ship as
+      # two separate release assets.
+      - name: Attach PDFs to GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            dist/${{ env.PDF_BASENAME }}-interior.pdf
+            dist/${{ env.PDF_BASENAME }}-cover.pdf
+
+      # Also serve them from the site itself rather than pointing readers at
+      # a GitHub Release page. `npm run build` (above) already regenerated
+      # public/ via `hugo --cleanDestinationDir`, so this has to happen after
+      # it, not before.
+      - name: Copy PDFs into the site
+        run: |
+          mkdir -p public/pdf
+          cp dist/${{ env.PDF_BASENAME }}-interior.pdf dist/${{ env.PDF_BASENAME }}-cover.pdf public/pdf/
+
+      - name: Deploy to Cloudflare
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          wranglerVersion: '4'
+          command: deploy
