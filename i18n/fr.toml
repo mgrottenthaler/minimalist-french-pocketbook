@@ -33,6 +33,12 @@ notePdfLabel = "PDF prêt à imprimer :"
 notePdfInterior = "intérieur"
 notePdfCover = "couverture"
 
+notePracticePre = "Envie de t'exercer sur ces formes ? Essaie"
+notePracticeLink = "VidraGram"
+notePracticePost = " — des exercices courts, corrigés instantanément, qui fonctionnent aussi hors ligne."
+
+practiceLabel = "exercices :"
+
 toc = "Table des matières"
 
 legendBold = "gras"

@@ -30,6 +30,7 @@ disableKinds = ["taxonomy", "term", "RSS", "robotsTXT", "section", "404"]
   blurb = "Paradigmes, terminaisons et formation des temps, avec le moins de prose possible. Une révision pour le niveau B2, pas un cours."
   omits = "Pas d'exercices, pas de vocabulaire, pas de phonétique — seulement les formes."
   url = "https://french.grottenthaler.eu"
+  practiceUrl = "https://vidragram.grottenthaler.eu/fr/"
   repo = "github.com/mgrottenthaler/minimalist-french-pocketbook"
   # No Lulu listing exists yet for this book — swap in the real product URL
   # once one is published (see the Romanian book's hugo.toml for the shape).
