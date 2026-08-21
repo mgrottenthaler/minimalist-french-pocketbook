@@ -17,7 +17,7 @@ weight: 50
 |---|---|---|---|---|---|---|---|
 | trente | quarante | cinquante | soixante | **soixante-dix** | **quatre-vingts** | **quatre-vingt-dix** | cent |
 
-Pas de mots propres pour 70, 80, 90 : le français continue à compter par vingtaines au-delà de 60 — *soixante-dix* (60+10), *quatre-vingts* (4×20), *quatre-vingt-dix* (4×20+10). Le belge et le suisse standard utilisent *septante* et *nonante* (et *huitante* en Suisse) ; non traités ici.
+Pas de mots propres pour 70, 80, 90 : le français continue à compter par vingtaines au-delà de 60 — *soixante-dix* (60+10), *quatre-vingts* (4×20), *quatre-vingt-dix* (4×20+10). Le français de Belgique et de Suisse dit *septante* et *nonante* (et *huitante* en Suisse romande) ; non traités ici.
 
 ### Construction des dizaines composées
 
@@ -28,7 +28,7 @@ Pas de mots propres pour 70, 80, 90 : le français continue à compter par vingt
 | 71 | soixante et onze |
 | 81, 91 | quatre-vingt-**un**, quatre-vingt-**onze** — pas de *et* après 80 |
 
-> Depuis la réforme orthographique de 1990, un trait d'union relie **tous** les éléments d'un numéral composé, y compris autour de *et* : *vingt-et-un*, *quatre-vingt-un*. Les deux graphies sont admises ; ce livre garde l'usage traditionnel (*et* sans trait d'union) pour la lisibilité.
+> Depuis la réforme orthographique de 1990, un trait d'union relie **tous** les éléments d'un numéral composé, y compris autour de *et* : *vingt-et-un*, *quatre-vingt-un*. Les deux graphies sont admises ; ce livre garde l'usage traditionnel (*et* sans trait d'union) pour la lisibilité.
 
 ### Accord de vingt et cent
 
@@ -39,7 +39,7 @@ Pas de mots propres pour 70, 80, 90 : le français continue à compter par vingt
 | **deux cents** hommes | prend **-s** |
 | **deux cent** un hommes | perd le **-s** |
 
-**mille** est toujours invariable : *deux mille hommes*. **million** et **milliard** sont des noms : ils prennent **-s** au pluriel et sont suivis de **de** devant un nom : *deux **millions de** voitures*.
+**mille** est toujours invariable : *deux mille hommes*. **million** et **milliard** sont des noms : ils prennent **-s** au pluriel et sont suivis de **de** devant un nom : *deux **millions de** voitures*.
 
 ## Les ordinaux
 
@@ -52,7 +52,7 @@ Pas de mots propres pour 70, 80, 90 : le français continue à compter par vingt
 | neuf | neu**vième** |
 | vingt et un | vingt et un**ième** |
 
-Formation régulière : cardinal + **-ième** (avec chute du *-e* final : *quatre* → *quatr**ième***). Seul **premier/première** est totalement irrégulier.
+Formation régulière : cardinal + **-ième** (avec chute du *-e* final : *quatre* → *quatr**ième***). Seul **premier/première** est totalement irrégulier.
 
 ## L'heure
 
@@ -66,4 +66,4 @@ Formation régulière : cardinal + **-ième** (avec chute du *-e* final : *quatr
 | Il est trois heures **moins dix**. | 2h50 |
 | Il est **midi**. / Il est **minuit**. | 12h00 / 0h00 |
 
-À l'oral, on utilise le système de 12 heures avec *du matin / de l'après-midi / du soir* ; à l'écrit, dans les horaires officiels, le système de 24 heures sans *et quart / moins* : *14h15*, *14h45*.
+À l'oral, on utilise le système de 12 heures avec *du matin / de l'après-midi / du soir* ; à l'écrit, dans les horaires officiels, le système de 24 heures sans *et quart / moins* : *14h15*, *14h45*.

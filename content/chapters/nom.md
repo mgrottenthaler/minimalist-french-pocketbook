@@ -14,7 +14,7 @@ Deux genres, marqués par l'article, pas par la terminaison. Le seul test sûr e
 | -age, -ège, -isme, -ment, -eau, -phone | -ade, -ance/-ence, -ée, -sion/-tion, -té, -ure |
 | le fromage, le collège, le tourisme | la promenade, la puissance, la fusée, la nation |
 
-> Nombreuses exceptions : **un** problème, **un** système, **un** silence, **un** squelette, **un** incendie, **un** intervalle (masculins en *-e*) ; **une** main, **une** dent, **une** fin, **une** faim, **une** nuit, **une** forêt, **une** part, **une** fois (féminins sans *-e*).
+> Nombreuses exceptions : **un** problème, **un** système, **un** silence, **un** squelette, **un** incendie, **un** intervalle (masculins en *-e*) ; **une** main, **une** dent, **une** fin, **une** faim, **une** nuit, **une** forêt, **une** part, **une** fois (féminins sans *-e*).
 
 ## Le féminin des noms animés
 
@@ -29,7 +29,7 @@ Deux genres, marqués par l'article, pas par la terminaison. Le seul test sûr e
 | -f | **-ve** | veuf → veu**ve** |
 | -x | **-se** | époux → épou**se** |
 
-> Irrégulier : copain → copine, roi → reine, dieu → déesse, héros → héroïne, neveu → nièce, fils → fille, homme → femme, frère → sœur, oncle → tante, cheval → jument, coq → poule.
+> Irrégulier : copain → copine, roi → reine, dieu → déesse, héros → héroïne, neveu → nièce, fils → fille, homme → femme, frère → sœur, oncle → tante, cheval → jument, coq → poule.
 
 ## Le pluriel
 
@@ -41,11 +41,11 @@ Deux genres, marqués par l'article, pas par la terminaison. Le seul test sûr e
 | -al | → **-aux** | animal → anim**aux**, journal → journ**aux** |
 | -ail | + **s** (le plus souvent) | détail → détail**s**, éventail → éventail**s** |
 
-> Exceptions **-al → -als** : bal, carnaval, chacal, festival, récital, régal.
-> Exceptions **-ail → -aux** : travail → trav**aux**, corail → cor**aux**, émail → ém**aux**, vitrail → vitr**aux**, bail → b**aux**, soupirail → soupir**aux**.
-> Pluriels irréguliers : œil → **yeux**, ciel → **cieux** (ou *ciels*, pour un sens concret : *les cieux de Provence*), aïeul → **aïeux** ("ancêtres"), ou *aïeuls* ("grands-parents").
+> Exceptions **-al → -als** : bal, carnaval, chacal, festival, récital, régal.
+> Exceptions **-ail → -aux** : travail → trav**aux**, corail → cor**aux**, émail → ém**aux**, vitrail → vitr**aux**, bail → b**aux**, soupirail → soupir**aux**.
+> Pluriels irréguliers : œil → **yeux**, ciel → **cieux** (ou *ciels*, pour un sens concret : *les cieux de Provence*), aïeul → **aïeux** ("ancêtres"), ou *aïeuls* ("grands-parents").
 
-Les noms de famille sont invariables : *les Dupont*, pas *les Duponts*.
+Les noms de famille sont invariables : *les Dupont*, pas *les Duponts*.
 
 ## Noms à double genre
 

@@ -41,7 +41,7 @@ identity (domain, Lulu listing, cover copy).
 | Margins | top .38 / bottom .34 / **inner .56** / outer .28 in, mirrored |
 | Body face | Source Serif 4 **SmText** (OFL), 8.3 pt / 10.8 pt |
 | Display face | Source Sans 3 (OFL) |
-| Extent | **42 pages** — 41 of content incl. the contents page, plus a blank leaf to reach an even count |
+| Extent | **42 pages** — all content, contents page included; the extent lands even on its own, so no blank leaf is appended |
 | Version on the cover | read from `VERSION` at build time |
 | Sold as | Lulu Bookstore listing, no ISBN — **not listed yet**, see below |
 | Print cost | not yet checked — run `themes/pocketbook-theme/scripts/check-lulu-pricing.sh`, or the Lulu project wizard, once a listing exists |
@@ -218,7 +218,7 @@ table of contents.
 | 1 | Le nom — genre, féminin, pluriel, noms à double genre | 2 |
 | 2 | L'article — défini, indéfini, partitif, contracté, négation, quantité, pays | 2 |
 | 3 | L'adjectif — féminin, pluriel, place, comparaison | 3 |
-| 4 | Les pronoms — sujet, tonique, complément, *y/en*, réfléchi, ordre, possessif, démonstratif, relatif, indéfini | 4 |
+| 4 | Les pronoms — sujet, tonique, complément, *y/en*, réfléchi, ordre, possessif, démonstratif (incl. *ce/ceci/cela/ça*), relatif, indéfini | 5 |
 | 5 | Les numéraux — cardinaux, ordinaux, l'heure | 2 |
 | 6 | Le verbe : indicatif présent — 3 groupes, variations orthographiques, auxiliaires | 3 |
 | 7 | Le verbe : les temps du passé — passé composé, imparfait, plus-que-parfait | 3 |
@@ -226,15 +226,16 @@ table of contents.
 | 9 | Le subjonctif, le conditionnel, l'impératif | 3 |
 | 10 | Formes non personnelles du verbe — infinitif, participe, gérondif, voix passive | 2 |
 | 11 | Verbes irréguliers — table de 60 verbes | 5 |
-| 12 | L'adverbe — formation en *-ment*, place, comparaison | 2 |
+| 12 | L'adverbe — formation en *-ment*, irréguliers, place, comparaison | 2 |
 | 13 | La préposition — lieu, durée, *par/pour*, locutions, *à/de* + infinitif | 2 |
-| 14 | La syntaxe de la phrase — ordre des mots, négation, question, mise en relief | 3 |
+| 14 | La syntaxe de la phrase — ordre des mots, négation, question, discours indirect et concordance des temps, mise en relief, conjonctions | 3 |
 | 15 | Orthographe, registre et formes rares | 2 |
 
-Plus the table of contents on page 1: **41 pages** of content, and the build
-appends one blank leaf for an even **42**. The book has no title page — it would
-only repeat the cover, which carries the same title and subtitle and has no
-publisher or imprint to add. The theme's `layouts/home.html` drops the
+Plus the table of contents on page 1: **42 pages** in all — the extent comes
+out even on its own, so the build appends no blank leaf (it adds one only if
+the count ever lands odd). The book has no title page — it would only repeat
+the cover, which carries the same title and subtitle and has no publisher or
+imprint to add. The theme's `layouts/home.html` drops the
 `.titlepage` section from the DOM in book mode; the website still shows it.
 
 Every chapter starts on a fresh page (`break-before: page` on `.chapter`), and

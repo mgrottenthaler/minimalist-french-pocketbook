@@ -55,4 +55,4 @@ Le radical change, jamais les terminaisons.
 | j' | **aurai** parlé |
 | je | **serai** parti(e) |
 
-***Quand** tu **auras fini**, appelle-moi.* — pas *quand tu finiras* : l'action de finir doit être achevée avant celle d'appeler.
+***Quand** tu **auras fini**, appelle-moi.* — pas *quand tu finiras* : l'action de finir doit être achevée avant celle d'appeler.

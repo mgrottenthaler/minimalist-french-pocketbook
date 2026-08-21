@@ -16,7 +16,7 @@ weight: 40
 
 **on** remplace couramment *nous* à l'oral (*on mange* = *nous mangeons*) et sert aussi de sujet impersonnel (*on frappe à la porte*). Il commande toujours un verbe à la 3 sg.
 
-> **tu** = familier ; **vous** = politesse, ou pluriel quel que soit le registre. Passer de *vous* à *tu* avec quelqu'un se dit *tutoyer*.
+> **tu** = familier ; **vous** = politesse, ou pluriel quel que soit le registre. Passer de *vous* à *tu* avec quelqu'un se dit *tutoyer*.
 
 ## Pronoms toniques
 
@@ -45,7 +45,7 @@ Après une préposition, après *c'est*, ou seuls pour insister.
 | 2 pl. | **vous** | **vous** |
 | 3 pl. | **les** | **leur** |
 
-Aux personnes 1 et 2, COD et COI sont identiques ; seule la 3e personne distingue **le/la/les** (direct) de **lui/leur** (indirect, introduit par *à* dans la phrase de base).
+Aux personnes 1 et 2, COD et COI sont identiques ; seule la 3e personne distingue **le/la/les** (direct) de **lui/leur** (indirect, introduit par *à* dans la phrase de base).
 
 *Je **le** vois* (voir qqn) contre *Je **lui** parle* (parler à qqn).
 
@@ -66,22 +66,22 @@ Aux personnes 1 et 2, COD et COI sont identiques ; seule la 3e personne distingu
 | 1 pl. | nous |
 | 2 pl. | vous |
 
-Utilisé avec les verbes pronominaux : *je **me** lave*, *ils **se** parlent*.
+Utilisé avec les verbes pronominaux : *je **me** lave*, *ils **se** parlent*.
 
 ## L'ordre des pronoms compléments
 
-Devant le verbe, dans cet ordre :
+Devant le verbe, dans cet ordre :
 
 | me/te/se/nous/vous | le/la/les | lui/leur | y | en |
 |---|---|---|---|---|
 
 *Il **me le** donne. · Il **le lui** donne. · Il **y en** a.*
 
-À l'**impératif affirmatif**, les pronoms passent après le verbe, reliés par un trait d'union, et **me/te** deviennent **moi/toi** — sauf devant *y* ou *en* :
+À l'**impératif affirmatif**, les pronoms passent après le verbe, reliés par un trait d'union, et **me/te** deviennent **moi/toi** — sauf devant *y* ou *en* :
 
 *Donne-**le-moi**. · Lève-**toi**. · Vas-**y**. · Donne-m'**en**.*
 
-À l'impératif **négatif**, l'ordre normal revient devant le verbe : *Ne **me le** donne pas.*
+À l'impératif **négatif**, l'ordre normal revient devant le verbe : *Ne **me le** donne pas.*
 
 ## Pronoms et adjectifs possessifs
 
@@ -96,7 +96,7 @@ Devant le verbe, dans cet ordre :
 | vous | votre | votre | vos |
 | ils/elles | leur | leur | leurs |
 
-L'accord se fait avec l'objet possédé, pas avec le possesseur : *son livre* peut être « son à lui » ou « son à elle ». Devant un nom féminin singulier commençant par une voyelle, **ma/ta/sa** deviennent **mon/ton/son** : *mon amie*, pas *ma amie*.
+L'accord se fait avec l'objet possédé, pas avec le possesseur : *son livre* peut être « son à lui » ou « son à elle ». Devant un nom féminin singulier commençant par une voyelle, **ma/ta/sa** deviennent **mon/ton/son** : *mon amie*, pas *ma amie*.
 
 ### Pronom possessif (remplace nom + adjectif)
 
@@ -117,9 +117,13 @@ L'accord se fait avec l'objet possédé, pas avec le possesseur : *son livre* pe
 | **cette** table (f. sg.) | **celle** |
 | **ces** livres, **ces** tables (pl.) | **ceux**, **celles** |
 
-Les pronoms démonstratifs ne s'emploient jamais seuls : suivis de **-ci** (proche) / **-là** (loin), d'un complément avec *de*, ou d'une relative.
+Les pronoms démonstratifs ne s'emploient jamais seuls : suivis de **-ci** (proche) / **-là** (loin), d'un complément avec *de*, ou d'une relative.
 
 *celui-**ci**, celle-**là** · **celui de** Paul · **celui qui** parle*
+
+Les **neutres** ne reprennent pas un nom, mais une chose non nommée ou une idée entière : **ceci** (proche, ou ce qui suit), **cela** — **ça** à l'oral — et **ce**, qui ne s'emploie que devant *être* ou devant un relatif (**ce qui, ce que, ce dont**).
+
+*Donne-moi **ça**. · **Cela** m'étonne. · **C'est** vrai. · Je sais **ce que** tu veux.*
 
 ## Pronoms relatifs
 
@@ -129,9 +133,10 @@ Les pronoms démonstratifs ne s'emploient jamais seuls : suivis de **-ci** (proc
 | **que** | complément d'objet direct | l'homme **que** je vois |
 | **dont** | complément introduit par *de* | l'homme **dont** je parle, le livre **dont** j'ai besoin |
 | **où** | lieu ou temps | la ville **où** j'habite, le jour **où** il est parti |
+| **préposition + qui** | après préposition (personnes) | l'homme **à qui** je parle, l'ami **avec qui** je sors |
 | **lequel / laquelle / lesquels / lesquelles** | après préposition (choses) | la chaise sur **laquelle** je suis assis |
 
-Contractions avec **à** et **de** : **auquel, à laquelle, auxquels, auxquelles** ; **duquel, de laquelle, desquels, desquelles**.
+Contractions avec **à** et **de** : **auquel, à laquelle, auxquels, auxquelles** ; **duquel, de laquelle, desquels, desquelles**.
 
 ## Pronoms indéfinis
 

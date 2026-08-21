@@ -32,7 +32,7 @@ La plupart des verbes se conjuguent avec **avoir**. Une liste fermée de verbes 
 
 *Je **me suis** levé. Elle **s'est** habillée.* — tout verbe pronominal, sans exception.
 
-> **monter, descendre, sortir, rentrer, retourner, passer** repassent à **avoir** dès qu'ils reçoivent un COD, et changent alors de sens : *je **suis** sorti* (je suis parti) contre *j'**ai** sorti la poubelle* (je l'ai emportée dehors) ; *il **est** monté* contre *il **a** monté les valises*.
+> **monter, descendre, sortir, rentrer, retourner, passer** repassent à **avoir** dès qu'ils reçoivent un COD, et changent alors de sens : *je **suis** sorti* (je suis parti) contre *j'**ai** sorti la poubelle* (je l'ai emportée dehors) ; *il **est** monté* contre *il **a** monté les valises*.
 
 ### L'accord du participe passé
 
@@ -40,7 +40,7 @@ La plupart des verbes se conjuguent avec **avoir**. Une liste fermée de verbes 
 |---|---|---|
 | **être** (non pronominal) | s'accorde avec le **sujet** | Elle **est** part**ie**. Ils **sont** venu**s**. |
 | **avoir** | s'accorde avec le COD **seulement s'il précède** le verbe | J'ai mangé la pomme. → La pomme que j'ai mang**ée**. |
-| **être** (pronominal) | s'accorde avec le sujet quand le pronom réfléchi est **COD** ; pas d'accord s'il est COI, ni si un autre COD suit | Elle s'est lav**ée**. — mais : Elle s'est lav**é** les mains (*les mains* est le COD et il suit) · Ils se sont parl**é** (*parler **à** qqn* : *se* est COI) |
+| **être** (pronominal) | s'accorde avec le sujet quand le pronom réfléchi est **COD** ; pas d'accord s'il est COI, ni si un autre COD suit | Elle s'est lav**ée**. — mais : Elle s'est lav**é** les mains (*les mains* est le COD et il suit) · Ils se sont parl**é** (*parler **à** qqn* : *se* est COI) |
 
 ## L'imparfait
 
@@ -55,9 +55,9 @@ Radical de **nous** au présent (sans *-ons*) + terminaisons **-ais, -ais, -ait,
 | vous | parl**iez** | finiss**iez** | vend**iez** |
 | ils / elles | parl**aient** | finiss**aient** | vend**aient** |
 
-> Seule vraie exception : **être**, dont le radical est **ét-** (*j'étais, tu étais...*) — tous les autres verbes, même très irréguliers au présent, suivent la règle du radical de *nous*.
+> Seule vraie exception : **être**, dont le radical est **ét-** (*j'étais, tu étais...*) — tous les autres verbes, même très irréguliers au présent, suivent la règle du radical de *nous*.
 
-## Passé composé ou imparfait ?
+## Passé composé ou imparfait ?
 
 | Passé composé | Imparfait |
 |---|---|
@@ -66,7 +66,7 @@ Radical de **nous** au présent (sans *-ons*) + terminaisons **-ais, -ais, -ait,
 | *Hier, il **a plu** toute la journée.* | *Quand j'étais enfant, il **pleuvait** souvent.* |
 | *Je **suis entré**, j'**ai vu** Paul.* | *Il **faisait** beau, Paul **lisait**.* |
 
-Les deux se combinent dans un même récit : l'imparfait plante le décor, le passé composé fait avancer l'action.
+Les deux se combinent dans un même récit : l'imparfait plante le décor, le passé composé fait avancer l'action.
 
 *Il **faisait** nuit quand je **suis rentré**.*
 

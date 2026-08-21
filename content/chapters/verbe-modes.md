@@ -5,7 +5,7 @@ weight: 90
 
 ## Le subjonctif présent
 
-Radical de la 3 pl. du présent indicatif (sans *-ent*) pour **je, tu, il, ils** ; radical de l'imparfait pour **nous, vous**. Terminaisons **-e, -es, -e, -ions, -iez, -ent**.
+Radical de la 3 pl. du présent indicatif (sans *-ent*) pour **je, tu, il, ils** ; radical de l'imparfait pour **nous, vous**. Terminaisons **-e, -es, -e, -ions, -iez, -ent**.
 
 | | parler | finir | vendre |
 |---|---|---|---|
@@ -51,9 +51,9 @@ Après une subordonnée introduite par **que**, quand la principale exprime volo
 | doute, possibilité | il est possible **que** ça **marche** |
 | nécessité | il faut **que** je **parte** |
 
-Après certaines conjonctions : **bien que, pour que, avant que, à moins que, quoique, sans que, jusqu'à ce que**.
+Après certaines conjonctions : **bien que, pour que, avant que, à moins que, quoique, sans que, jusqu'à ce que**.
 
-> *penser que, croire que, être sûr que* à l'affirmatif prennent l'**indicatif** (fait présenté comme certain) ; à la forme négative ou interrogative, le doute introduit rend le subjonctif possible : *je ne pense pas **qu'il vienne***.
+> *penser que, croire que, être sûr que* à l'affirmatif prennent l'**indicatif** (fait présenté comme certain) ; à la forme négative ou interrogative, le doute introduit rend le subjonctif possible : *je ne pense pas **qu'il vienne***.
 
 ### Subjonctif passé
 
@@ -76,11 +76,11 @@ Radical du futur simple + terminaisons de l'imparfait (**-ais, -ais, -ait, -ions
 | vous | parler**iez** | ser**iez** | aur**iez** |
 | ils / elles | parler**aient** | ser**aient** | aur**aient** |
 
-Usages : politesse (*je **voudrais** un café*), hypothèse, information non confirmée (style journalistique : *le suspect **serait** en fuite*).
+Usages : politesse (*je **voudrais** un café*), hypothèse, information non confirmée (style journalistique : *le suspect **serait** en fuite*).
 
 ### Passé
 
-**avoir** ou **être** au conditionnel présent + participe passé : *j'**aurais** parlé*, *je **serais** parti*. Regret ou reproche : *tu **aurais dû** me le dire*.
+**avoir** ou **être** au conditionnel présent + participe passé : *j'**aurais** parlé*, *je **serais** parti*. Regret ou reproche : *tu **aurais dû** me le dire*.
 
 ## La phrase avec *si*
 
@@ -94,7 +94,7 @@ Usages : politesse (*je **voudrais** un café*), hypothèse, information non con
 - *Si j'**avais** le temps, je **viendrais**.*
 - *Si j'**avais eu** le temps, je **serais venu**.*
 
-> Piège fréquent : **jamais** de conditionnel après *si* — *si j'aurais* est incorrect, même très répandu à l'oral. Après *si*, seuls le présent, l'imparfait et le plus-que-parfait sont possibles.
+> Piège fréquent : **jamais** de conditionnel après *si* — *si j'aurais* est incorrect, même très répandu à l'oral. Après *si*, seuls le présent, l'imparfait et le plus-que-parfait sont possibles.
 
 ## L'impératif
 
@@ -102,18 +102,18 @@ Formes du présent de l'indicatif pour **tu, nous, vous**, sans pronom sujet. Le
 
 | | Affirmatif | Négatif |
 |---|---|---|
-| parler | parl**e**! parlons! parlez! | ne parle pas! |
-| finir | finis! finissons! finissez! | ne finis pas! |
-| vendre | vends! vendons! vendez! | ne vends pas! |
-| aller | va! (mais : vas-**y**!) | ne va pas! |
+| parler | parl**e** ! parlons ! parlez ! | ne parle pas ! |
+| finir | finis ! finissons ! finissez ! | ne finis pas ! |
+| vendre | vends ! vendons ! vendez ! | ne vends pas ! |
+| aller | va ! (mais : vas-**y** !) | ne va pas ! |
 
 ### Irréguliers
 
 | | |
 |---|---|
-| être | **sois! soyons! soyez!** |
-| avoir | **aie! ayons! ayez!** |
-| savoir | **sache! sachons! sachez!** |
+| être | **sois ! soyons ! soyez !** |
+| avoir | **aie ! ayons ! ayez !** |
+| savoir | **sache ! sachons ! sachez !** |
 | vouloir | **veuillez** — forme de politesse figée (*veuillez patienter*) |
 
 La place des pronoms compléments à l'impératif est traitée dans le chapitre *Les pronoms*.

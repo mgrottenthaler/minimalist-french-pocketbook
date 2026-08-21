@@ -3,7 +3,7 @@ title: "Verbes irréguliers"
 weight: 110
 ---
 
-Ces quatre colonnes donnent la clé du reste du paradigme : le présent 1/2/3 sg. se retrouve en changeant seulement la terminaison finale (*je bois → tu bois, il boit*), le subjonctif **je** s'étend à *tu, il, ils* de la même façon, et le participe passé sert au passé composé, au plus-que-parfait et au passif. Les formes de **nous/vous** au subjonctif et à l'imparfait suivent un radical différent — voir *Le subjonctif, le conditionnel, l'impératif*.
+Ces quatre formes donnent la clé du reste du paradigme : le présent 1/2/3 sg. se retrouve en changeant seulement la terminaison finale (*je bois → tu bois, il boit*), le subjonctif **je** s'étend à *tu, il, ils* de la même façon, et le participe passé sert au passé composé, au plus-que-parfait et au passif. Les formes de **nous/vous** au subjonctif et à l'imparfait suivent un radical différent — voir *Le subjonctif, le conditionnel, l'impératif*.
 
 | Infinitif | Prés. 1 sg. | Prés. 3 sg. | Subj. (que je) | Participe |
 |---|---|---|---|---|
@@ -68,6 +68,6 @@ Ces quatre colonnes donnent la clé du reste du paradigme : le présent 1/2/3 sg
 | voir | vois | voit | voie | vu |
 | vouloir | veux | veut | veuille | voulu |
 
-> **falloir** et **pleuvoir** sont défectifs : ils n'existent qu'à la 3 sg., avec le sujet impersonnel **il**. *falloir* comme verbe de nécessité est invariable, suivi d'un infinitif ou de *que* + subjonctif : *il **faut** partir*, *il **fallait** que je parte*, *il **faudra** que tu viennes*.
+> **falloir** et **pleuvoir** sont défectifs : ils n'existent qu'à la 3 sg., avec le sujet impersonnel **il**. *falloir* comme verbe de nécessité est invariable, suivi d'un infinitif ou de *que* + subjonctif : *il **faut** partir*, *il **fallait** que je parte*, *il **faudra** que tu viennes*.
 >
-> **suivre** (*je suis, tu suis...*) et **être** (*je suis*) partagent la même forme à la 1 sg. — seul le contexte tranche : *je **suis** fatigué* (être) contre *je **suis** ce chemin* (suivre).
+> **suivre** (*je suis, tu suis...*) et **être** (*je suis*) partagent la même forme à la 1 sg. — seul le contexte tranche : *je **suis** fatigué* (être) contre *je **suis** ce chemin* (suivre).

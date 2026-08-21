@@ -20,7 +20,7 @@ Les contractions de **à** et **de** avec **le/les** (*au, aux, du, des*) et l'e
 
 ## depuis, pendant, pour — la durée
 
-Trois traductions possibles de « for » en anglais, jamais interchangeables.
+Trois traductions possibles de « for » en anglais, jamais interchangeables.
 
 | | Valeur | Exemple |
 |---|---|---|
@@ -28,9 +28,9 @@ Trois traductions possibles de « for » en anglais, jamais interchangeables.
 | **pendant** | durée totale d'une action **achevée** ou habituelle | J'ai vécu à Paris **pendant** trois ans. |
 | **pour** | durée **prévue**, décidée à l'avance | Je pars **pour** trois semaines. |
 
-> **depuis** avec un verbe au **présent** traduit une action commencée dans le passé et toujours en cours — là où l'anglais utiliserait un present perfect : *j'**attends** depuis une heure* = *I have been waiting for an hour*.
+> **depuis** avec un verbe au **présent** traduit une action commencée dans le passé et toujours en cours — là où l'anglais utiliserait un present perfect : *j'**attends** depuis une heure* = *I have been waiting for an hour*.
 
-## par vs pour
+## par ou pour ?
 
 | | Valeur | Exemple |
 |---|---|---|
