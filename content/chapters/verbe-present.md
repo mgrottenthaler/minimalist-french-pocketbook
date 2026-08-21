@@ -26,7 +26,7 @@ Le 1er groupe couvre l'immense majorité des verbes français et tout verbe nouv
 | vous | parl**ez** | mang**ez** |
 | ils / elles | parl**ent** | mang**ent** |
 
-Les 4 personnes du singulier + la 3 pl. **se prononcent toutes pareil** (*parle, parles, parle, parlent* : un seul son) ; seuls **nous** et **vous** se distinguent à l'oral.
+Les trois personnes du singulier + la 3 pl. **se prononcent toutes pareil** (*parle, parles, parle, parlent* : un seul son) ; seuls **nous** et **vous** se distinguent à l'oral.
 
 ### Variations orthographiques
 
