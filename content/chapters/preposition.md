@@ -8,7 +8,7 @@ weight: 130
 | | Usage | Exemple |
 |---|---|---|
 | **à** | ville | à Paris, à Lyon |
-| **en** | pays féminin, continent, saison (sauf *été*) | en France, en Europe, en hiver |
+| **en** | pays féminin, continent, saison | en France, en Europe, en hiver, en été — mais **au** printemps |
 | **dans** | intérieur délimité | dans la maison, dans la boîte |
 | **sur** | surface, contact | sur la table |
 | **sous** | dessous | sous le lit |
