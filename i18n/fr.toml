@@ -17,6 +17,11 @@ versionLabel = "Version"
 buyPrimary = "Commander un exemplaire imprimé"
 buySecondary = "Order a printed copy — via Lulu"
 
+# Shown instead of buyPrimary/buySecondary while hugo.toml's params.lulu is
+# still the "#TODO-lulu-listing" placeholder.
+buyUnavailablePrimary = "Bientôt disponible"
+buyUnavailableSecondary = "Pas encore en vente sur Lulu"
+
 noteLicensePre = "Le livre peut être lu, téléchargé et imprimé gratuitement — voir"
 noteLicenseLink = "la licence"
 noteLicensePost = ". Via Lulu, 2 € du prix vont à l'auteur. Le site peut être installé comme application sur le téléphone et lu hors ligne, depuis le menu du navigateur."
@@ -36,6 +41,20 @@ notePdfCover = "couverture"
 notePracticePre = "Envie de t'exercer sur ces formes ? Essaie"
 notePracticeLink = "VidraGram"
 notePracticePost = " — des exercices courts, corrigés instantanément, qui fonctionnent aussi hors ligne."
+
+# Shown instead of notePractice* while data/vidragram.yaml (in the shared
+# theme) doesn't list this book's params.lang yet.
+notePracticeMissingPre = "VidraGram ne propose pas encore d'exercices en français."
+notePracticeMissingLink = "Signale-le-moi"
+notePracticeMissingPost = " pour être prévenu quand ce sera prêt."
+
+# The sibling-book list built from data/series.yaml (in the shared theme),
+# plus a fixed "missing a language" contact line.
+noteSeriesPre = "Cette collection existe aussi en :"
+noteSeriesPost = "."
+noteSeriesMissingPre = "Une langue manque ?"
+noteSeriesMissingLink = "Contacte-moi"
+noteSeriesMissingPost = " pour la demander."
 
 practiceLabel = "exercices :"
 
