@@ -1,24 +1,24 @@
 ---
-title: "Le subjonctif, le conditionnel, l'impératif"
+title: "Le subjonctif, le conditionnel, l’impératif"
 weight: 90
 ---
 
 ## Le subjonctif présent
 
-Radical de la 3 pl. du présent indicatif (sans *-ent*) pour **je, tu, il, ils** ; radical de l'imparfait pour **nous, vous**. Terminaisons **-e, -es, -e, -ions, -iez, -ent**.
+Radical de la 3 pl. du présent indicatif (sans *‑ent*) pour **je, tu, il, ils** ; radical de l’imparfait pour **nous, vous**. Terminaisons **‑e, ‑es, ‑e, ‑ions, ‑iez, ‑ent**.
 
 | | parler | finir | vendre |
 |---|---|---|---|
 | que je | parl**e** | finiss**e** | vend**e** |
 | que tu | parl**es** | finiss**es** | vend**es** |
-| qu'il / elle | parl**e** | finiss**e** | vend**e** |
+| qu’il / elle | parl**e** | finiss**e** | vend**e** |
 | que nous | parl**ions** | finiss**ions** | vend**ions** |
 | que vous | parl**iez** | finiss**iez** | vend**iez** |
-| qu'ils / elles | parl**ent** | finiss**ent** | vend**ent** |
+| qu’ils / elles | parl**ent** | finiss**ent** | vend**ent** |
 
 ### Radicaux à deux formes
 
-Plusieurs verbes fréquents changent de radical entre le singulier + 3 pl. et **nous/vous** — le même radical qu'à l'imparfait.
+Plusieurs verbes fréquents changent de radical entre le singulier + 3 pl. et **nous/vous** — le même radical qu’à l’imparfait.
 
 | Infinitif | je/tu/il/ils | nous/vous |
 |---|---|---|
@@ -32,13 +32,13 @@ Plusieurs verbes fréquents changent de radical entre le singulier + 3 pl. et **
 | Infinitif | Radical | Exemple |
 |---|---|---|
 | être | ir. complet | que je **sois**, que nous **soyons** |
-| avoir | ir. complet | que j'**aie**, que nous **ayons** |
+| avoir | ir. complet | que j’**aie**, que nous **ayons** |
 | faire | **fass-** | que je fasse |
 | pouvoir | **puiss-** | que je puisse |
 | savoir | **sach-** | que je sache |
-| aller | **aill- / all-** | que j'aille, que nous allions |
+| aller | **aill- / all-** | que j’aille, que nous allions |
 | vouloir | **veuill- / voul-** | que je veuille, que nous voulions |
-| falloir | — | qu'il faille |
+| falloir | — | qu’il faille |
 
 ### Où apparaît le subjonctif
 
@@ -51,21 +51,21 @@ Après une subordonnée introduite par **que**, quand la principale exprime volo
 | doute, possibilité | il est possible **que** ça **marche** |
 | nécessité | il faut **que** je **parte** |
 
-Après certaines conjonctions : **bien que, pour que, avant que, à moins que, quoique, sans que, jusqu'à ce que**.
+Après certaines conjonctions : **bien que, pour que, avant que, à moins que, quoique, sans que, jusqu’à ce que**.
 
-> *penser que, croire que, être sûr que* à l'affirmatif prennent l'**indicatif** (fait présenté comme certain) ; à la forme négative ou interrogative, le doute introduit rend le subjonctif possible : *je ne pense pas **qu'il vienne***.
+> *penser que, croire que, être sûr que* à l’affirmatif prennent l’**indicatif** (fait présenté comme certain) ; à la forme négative ou interrogative, le doute introduit rend le subjonctif possible : *je ne pense pas **qu’il vienne***.
 
 ### Subjonctif passé
 
 **avoir** ou **être** au subjonctif présent + participe passé.
 
-*Je regrette **qu'il soit parti**. — Je doute **qu'elle ait compris**.*
+*Je regrette **qu’il soit parti**. — Je doute **qu’elle ait compris**.*
 
 ## Le conditionnel
 
 ### Présent
 
-Radical du futur simple + terminaisons de l'imparfait (**-ais, -ais, -ait, -ions, -iez, -aient**).
+Radical du futur simple + terminaisons de l’imparfait (**‑ais, ‑ais, ‑ait, ‑ions, ‑iez, ‑aient**).
 
 | | parler | être | avoir |
 |---|---|---|---|
@@ -80,7 +80,7 @@ Usages : politesse (*je **voudrais** un café*), hypothèse, information non co
 
 ### Passé
 
-**avoir** ou **être** au conditionnel présent + participe passé : *j'**aurais** parlé*, *je **serais** parti*. Regret ou reproche : *tu **aurais dû** me le dire*.
+**avoir** ou **être** au conditionnel présent + participe passé : *j’**aurais** parlé*, *je **serais** parti*. Regret ou reproche : *tu **aurais dû** me le dire*.
 
 ## La phrase avec *si*
 
@@ -90,15 +90,15 @@ Usages : politesse (*je **voudrais** un café*), hypothèse, information non co
 | hypothétique (présent) | imparfait | conditionnel présent |
 | irréelle (passé) | plus-que-parfait | conditionnel passé |
 
-- *Si j'**ai** le temps, je **viendrai**.*
-- *Si j'**avais** le temps, je **viendrais**.*
-- *Si j'**avais eu** le temps, je **serais venu**.*
+- *Si j’**ai** le temps, je **viendrai**.*
+- *Si j’**avais** le temps, je **viendrais**.*
+- *Si j’**avais eu** le temps, je **serais venu**.*
 
-> Piège fréquent : **jamais** de conditionnel après *si* — *si j'aurais* est incorrect, même très répandu à l'oral. Après *si*, seuls le présent, l'imparfait et le plus-que-parfait sont possibles.
+> Piège fréquent : **jamais** de conditionnel après *si* — *si j’aurais* est incorrect, même très répandu à l’oral. Après *si*, seuls le présent, l’imparfait et le plus-que-parfait sont possibles.
 
-## L'impératif
+## L’impératif
 
-Formes du présent de l'indicatif pour **tu, nous, vous**, sans pronom sujet. Les verbes en *-er* (et *ouvrir, offrir...*) perdent le **-s** final de *tu* — sauf juste avant *y* ou *en*.
+Formes du présent de l’indicatif pour **tu, nous, vous**, sans pronom sujet. Les verbes en *‑er* (et *ouvrir, offrir...*) perdent le **‑s** final de *tu* — sauf juste avant *y* ou *en*.
 
 | | Affirmatif | Négatif |
 |---|---|---|
@@ -116,4 +116,4 @@ Formes du présent de l'indicatif pour **tu, nous, vous**, sans pronom sujet. Le
 | savoir | **sache ! sachons ! sachez !** |
 | vouloir | **veuillez** — forme de politesse figée (*veuillez patienter*) |
 
-La place des pronoms compléments à l'impératif est traitée dans le chapitre *Les pronoms*.
+La place des pronoms compléments à l’impératif est traitée dans le chapitre *Les pronoms*.

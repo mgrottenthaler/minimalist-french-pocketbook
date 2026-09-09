@@ -23,38 +23,38 @@ Pas de mots propres pour 70, 80, 90 : le français continue à compter par ving
 
 | | |
 |---|---|
-| 21, 31... | vingt **et** un, trente **et** un — *et*, sans trait d'union |
-| 22–29, 32–39... | vingt-deux, trente-trois — trait d'union, sans *et* |
+| 21, 31... | vingt **et** un, trente **et** un — *et*, sans trait d’union |
+| 22–29, 32–39... | vingt-deux, trente-trois — trait d’union, sans *et* |
 | 71 | soixante et onze |
 | 81, 91 | quatre-vingt-**un**, quatre-vingt-**onze** — pas de *et* après 80 |
 
-> Depuis la réforme orthographique de 1990, un trait d'union relie **tous** les éléments d'un numéral composé, y compris autour de *et* : *vingt-et-un*, *quatre-vingt-un*. Les deux graphies sont admises ; ce livre garde l'usage traditionnel (*et* sans trait d'union) pour la lisibilité.
+> Depuis la réforme orthographique de 1990, un trait d’union relie **tous** les éléments d’un numéral composé, y compris autour de *et* : *vingt-et-un*, *quatre-vingt-un*. Les deux graphies sont admises ; ce livre garde l’usage traditionnel (*et* sans trait d’union) pour la lisibilité.
 
 ### Accord de vingt et cent
 
 | | |
 |---|---|
-| **quatre-vingts** hommes (multiplié, rien après) | prend **-s** |
-| **quatre-vingt**-un hommes (suivi d'un autre nombre) | perd le **-s** |
-| **deux cents** hommes | prend **-s** |
-| **deux cent** un hommes | perd le **-s** |
+| **quatre-vingts** hommes (multiplié, rien après) | prend **‑s** |
+| **quatre-vingt**‑un hommes (suivi d’un autre nombre) | perd le **‑s** |
+| **deux cents** hommes | prend **‑s** |
+| **deux cent** un hommes | perd le **‑s** |
 
-**mille** est toujours invariable : *deux mille hommes*. **million** et **milliard** sont des noms : ils prennent **-s** au pluriel et sont suivis de **de** devant un nom : *deux **millions de** voitures*.
+**mille** est toujours invariable : *deux mille hommes*. **million** et **milliard** sont des noms : ils prennent **‑s** au pluriel et sont suivis de **de** devant un nom : *deux **millions de** voitures*.
 
 ## Les ordinaux
 
 | Cardinal | Ordinal |
 |---|---|
 | un | **premier / première** |
-| deux | deuxième (ou **second/seconde** s'il n'y en a que deux) |
+| deux | deuxième (ou **second/seconde** s’il n’y en a que deux) |
 | trois | troisième |
 | cinq | cin**quième** |
 | neuf | neu**vième** |
 | vingt et un | vingt et un**ième** |
 
-Formation régulière : cardinal + **-ième** (avec chute du *-e* final : *quatre* → *quatr**ième***). Seul **premier/première** est totalement irrégulier.
+Formation régulière : cardinal + **‑ième** (avec chute du *‑e* final : *quatre* → *quatr**ième***). Seul **premier/première** est totalement irrégulier.
 
-## L'heure
+## L’heure
 
 | | |
 |---|---|
@@ -66,4 +66,4 @@ Formation régulière : cardinal + **-ième** (avec chute du *-e* final : *qua
 | Il est trois heures **moins dix**. | 2h50 |
 | Il est **midi**. / Il est **minuit**. | 12h00 / 0h00 |
 
-À l'oral, on utilise le système de 12 heures avec *du matin / de l'après-midi / du soir* ; à l'écrit, dans les horaires officiels, le système de 24 heures sans *et quart / moins* : *14h15*, *14h45*.
+À l’oral, on utilise le système de 12 heures avec *du matin / de l’après-midi / du soir* ; à l’écrit, dans les horaires officiels, le système de 24 heures sans *et quart / moins* : *14h15*, *14h45*.
