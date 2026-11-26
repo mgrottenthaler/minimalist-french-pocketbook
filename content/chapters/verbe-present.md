@@ -36,6 +36,7 @@ Les trois personnes du singulier + la 3 pl. **se prononcent toutes pareil** (*pa
 | **‑ger** | g → **ge** devant a/o | manger → nous man**ge**ons |
 | **e_er** (lever) | e → **è** aux formes accentuées | lever → je l**è**ve, nous levons |
 | **é_er** (préférer) | é → **è** aux formes accentuées | préférer → je préf**è**re, nous préférons |
+| **‑oyer, ‑uyer** | y → **i** devant *e* muet | envoyer → j’envo**i**e, essuyer → j’essu**i**e (‑ayer : *je paie* ou *je paye*) |
 | **‑eler, ‑eter** | consonne doublée, ou **è** | appeler → j’appe**ll**e ; acheter → j’ach**è**te |
 
 ## 2e groupe : verbes en ‑ir (type *finir*)
@@ -66,7 +67,7 @@ L’infixe **‑iss-**, présent à toutes les personnes du pluriel, est ce qui 
 
 ## Les auxiliaires : être, avoir, aller
 
-Trois verbes dont dépend tout le reste du système — temps composés, futur proche, passé récent. À apprendre intégralement.
+Trois verbes dont dépend tout le reste du système — temps composés et futur proche. À apprendre intégralement.
 
 | | être | avoir | aller |
 |---|---|---|---|

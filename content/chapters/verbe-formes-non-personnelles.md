@@ -9,7 +9,7 @@ weight: 100
 
 **Passé** : **avoir** ou **être** à l’infinitif + participe passé — une action achevée avant celle du verbe principal, surtout après **après** : ***après avoir mangé**, il est sorti. **Après être parti**, il a téléphoné.*
 
-Après les prépositions **pour, sans, avant de**, l’infinitif reste présent : ***pour comprendre**, **sans parler**, **avant de partir***.
+Après **pour, sans, avant de**, l’infinitif est le plus souvent présent : ***pour comprendre**, **sans parler**, **avant de partir*** — le passé y marque une action achevée : *sans **avoir compris***, *puni **pour avoir menti***.
 
 ## Le participe présent et l’adjectif verbal
 

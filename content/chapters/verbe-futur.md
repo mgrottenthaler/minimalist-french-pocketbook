@@ -34,6 +34,9 @@ Le radical change, jamais les terminaisons.
 | savoir | **saur-** | je saurai |
 | venir / tenir | **viendr- / tiendr-** | je viendrai |
 | envoyer | **enverr-** | j’enverrai |
+| devoir / recevoir | **devr- / recevr-** | je devrai |
+| courir / mourir | **courr- / mourr-** | je courrai |
+| falloir | **faudr-** | il faudra |
 
 ## Le futur proche
 
@@ -48,7 +51,7 @@ Le radical change, jamais les terminaisons.
 
 ## Le futur antérieur
 
-**avoir** ou **être** au **futur simple** + participe passé — une action future, achevée avant une autre action future. Obligatoire après **quand, dès que, lorsque, aussitôt que** quand la principale est au futur.
+**avoir** ou **être** au **futur simple** + participe passé — une action future, achevée avant une autre action future. Après **quand, dès que, lorsque, aussitôt que**, il s’impose dès que l’action doit être achevée avant celle de la principale au futur ; sinon, futur simple : *quand tu **seras** à Paris, appelle-moi*.
 
 | | |
 |---|---|

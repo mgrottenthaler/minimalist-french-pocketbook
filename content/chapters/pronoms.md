@@ -60,8 +60,8 @@ Aux personnes 1 et 2, COD et COI sont identiques ; seule la 3e personne disting
 
 | | |
 |---|---|
-| 1 sg. | me |
-| 2 sg. | te |
+| 1 sg. | me, m’ |
+| 2 sg. | te, t’ |
 | 3 sg./pl. | **se, s’** |
 | 1 pl. | nous |
 | 2 pl. | vous |

@@ -18,9 +18,9 @@ L’adjectif s’accorde toujours en genre et en nombre avec le nom qu’il qual
 | ‑f | **‑ve** | neuf → neu**ve**, actif → acti**ve** |
 | ‑c | **‑che** ou **‑que** | blanc → blan**che**, public → publi**que** |
 | ‑et | **‑ète** ou doublement + **‑ette** | complet → compl**ète** ; muet → mu**ette** |
-| ‑on, ‑il, ‑os | **‑onne**, **‑ille**, **‑osse** | bon → bon**ne**, gentil → genti**lle**, gros → gro**sse** |
+| ‑on, ‑el, ‑eil | **‑onne**, **‑elle**, **‑eille** | bon → bon**ne**, cruel → cruel**le**, pareil → parei**lle** |
 
-> Irréguliers : beau → **belle**, nouveau → **nouvelle**, vieux → **vieille**, fou → **folle**, mou → **molle**, long → **longue**, faux → **fausse**, doux → **douce**, frais → **fraîche**.
+> Irréguliers : beau → **belle**, nouveau → **nouvelle**, vieux → **vieille**, fou → **folle**, mou → **molle**, long → **longue**, faux → **fausse**, doux → **douce**, frais → **fraîche**, gentil → **gentille**, gros → **grosse**.
 
 ### Devant voyelle ou *h* muet
 

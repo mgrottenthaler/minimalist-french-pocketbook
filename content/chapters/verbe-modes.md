@@ -42,7 +42,7 @@ Plusieurs verbes fréquents changent de radical entre le singulier + 3 pl. et **
 
 ### Où apparaît le subjonctif
 
-Après une subordonnée introduite par **que**, quand la principale exprime volonté, sentiment, doute ou nécessité — jamais un fait certain.
+Dans une subordonnée introduite par **que**, quand la principale exprime volonté, sentiment, doute ou nécessité — jamais un fait certain.
 
 | | |
 |---|---|

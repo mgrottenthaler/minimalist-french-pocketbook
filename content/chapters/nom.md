@@ -43,7 +43,7 @@ Deux genres, marqués par l’article, pas par la terminaison. Le seul test sûr
 
 > Exceptions **‑al → ‑als** : bal, carnaval, chacal, festival, récital, régal.
 > Exceptions **‑ail → ‑aux** : travail → trav**aux**, corail → cor**aux**, émail → ém**aux**, vitrail → vitr**aux**, bail → b**aux**, soupirail → soupir**aux**.
-> Pluriels irréguliers : œil → **yeux**, ciel → **cieux** (ou *ciels*, pour un sens concret : *les cieux de Provence*), aïeul → **aïeux** (« ancêtres »), ou *aïeuls* (« grands-parents »).
+> Pluriels irréguliers : œil → **yeux**, ciel → **cieux** (mais *ciels* au sens concret ou pictural : *les ciels de Provence*), aïeul → **aïeux** (« ancêtres »), ou *aïeuls* (« grands-parents »).
 
 Les noms de famille sont invariables : *les Dupont*, pas *les Duponts*.
 
