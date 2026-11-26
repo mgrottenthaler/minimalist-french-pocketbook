@@ -7,8 +7,10 @@ formation, with as little prose as possible. Built with Hugo, paginated by
 paged.js, printed to PDF by headless Chromium, and produced as a coil-bound
 pocketbook at Lulu.
 
-Free to read, download and print — see [LICENSE-CONTENT](LICENSE-CONTENT). A
-printed copy through Lulu isn't listed yet — see "Printing at Lulu" below.
+Free to read, download and print — see [LICENSE-CONTENT](LICENSE-CONTENT). If
+you'd rather have a printed copy without doing it yourself, order one through
+[Lulu](https://www.lulu.com/shop/martin-grottenthaler/the-minimalist-french-pocketbook/paperback/product-45gzy4q.html)
+(€1.90 of the price goes to the author).
 
 The book itself is entirely in French — headings, table labels and the few
 usage notes. It is a refresher for a reader at roughly B2, not a course: it
@@ -43,8 +45,8 @@ identity (domain, Lulu listing, cover copy).
 | Display face | Source Sans 3 (OFL) |
 | Extent | **42 pages** — all content, contents page included; the extent lands even on its own, so no blank leaf is appended |
 | Version on the cover | read from `VERSION` at build time |
-| Sold as | Lulu Bookstore listing, no ISBN — **not listed yet**, see below |
-| Print cost | not yet checked — run `themes/pocketbook-theme/scripts/check-lulu-pricing.sh`, or the Lulu project wizard, once a listing exists |
+| Sold as | Lulu Bookstore listing, no ISBN |
+| Print cost | ~€6.71/copy (Lulu project wizard, coil, checked 2026-11-26) |
 
 The inner margin is oversized because coil binding punches through the
 gutter and Lulu requires ≥ 0.5 in clearance from the punched edge. Margins
@@ -284,10 +286,6 @@ still needed to read formal and written French.
 
 ## Printing at Lulu
 
-**Not listed yet.** `site.Params.lulu` in `hugo.toml` is a placeholder
-(`#TODO-lulu-listing`) — the cover's buy button and the JSON-LD offer both
-point nowhere until a real Lulu project exists. Steps, once ready:
-
 1. `make pdf` → `dist/grammaire-francaise-interior.pdf` and
    `dist/grammaire-francaise-cover.pdf`. Each reports its own extent and
    measured size, and fails rather than ships if the size is wrong.
@@ -307,9 +305,6 @@ point nowhere until a real Lulu project exists. Steps, once ready:
    manual: Lulu's public Print API only covers print jobs, file validation,
    shipping quotes and webhooks — no project/title/storefront endpoint — so a
    listing's files can't be replaced programmatically.
-5. Once the project exists, replace `lulu` in `hugo.toml`'s `[params]` with
-   the real product URL, and fill in `price` there to match the wizard's
-   list price.
 
 Lulu package id for this spec: `0425X0687.BW.PRE.CO.060UC444.MXX`
 (`TRIM.INK.QUALITY.BINDING.PAPER.FINISH`) — same as the Romanian book, trim
@@ -321,6 +316,17 @@ package rows.
 
 `distributionEligible` is false for every coil package — coil is Lulu
 Bookstore only, not Global Distribution (Amazon, Ingram, B&N).
+
+### Selling
+
+Listed on the **Lulu Bookstore** only. Lulu is the merchant: they take
+payment, quote shipping, carry VAT/refunds/reprints:
+
+| List | Print | Lulu | Kept per copy |
+|---|---|---|---|
+| €9.09 | €6.71 | €0.48 | €1.90 |
+
+No ISBN involved or needed: Bookstore-only projects aren't offered one.
 
 ### The cover
 
@@ -370,7 +376,7 @@ cover copy (`content/chapters/`, `hugo.toml`'s `[params]`, `i18n/fr.toml`):
 **CC BY-NC-ND 4.0** — see `LICENSE-CONTENT`. Free to copy and print for
 personal use with attribution; no unauthorised commercial resale, no
 redistributing a modified version. Buy a printed copy through the store to
-support the project (once listed).
+support the project.
 
 Fonts: SIL Open Font License 1.1 — full text shipped with the subsets in the
 theme's `static/fonts/OFL-source-serif.txt` and `OFL-source-sans.txt`.

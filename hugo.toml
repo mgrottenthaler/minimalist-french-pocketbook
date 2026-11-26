@@ -31,9 +31,7 @@ disableKinds = ["taxonomy", "term", "RSS", "robotsTXT", "section", "404"]
   omits = "Pas d’exercices, pas de vocabulaire, pas de phonétique — seulement les formes."
   url = "https://french.grottenthaler.eu"
   repo = "github.com/mgrottenthaler/minimalist-french-pocketbook"
-  # No Lulu listing exists yet for this book — swap in the real product URL
-  # once one is published (see the Romanian book's hugo.toml for the shape).
-  lulu = "#TODO-lulu-listing"
+  lulu = "https://www.lulu.com/shop/martin-grottenthaler/the-minimalist-french-pocketbook/paperback/product-45gzy4q.html"
 
   # The theme's [params] contract — see themes/pocketbook-theme/README.md.
   lang = "fr"
